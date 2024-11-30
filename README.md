@@ -4,9 +4,11 @@ This is a description of my project.
 
 ## Example Image
 Local image:
+
 ![Thai](images/thai.jpg)
 
 External image:
+
 ![Malay](https://as1.ftcdn.net/v2/jpg/01/83/57/50/1000_F_183575057_Ds4e51TuR08IasMWY9cgJOhJkT0quSzx.jpg)
 
 ## Travel Parameters
