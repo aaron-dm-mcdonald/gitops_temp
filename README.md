@@ -18,4 +18,4 @@ External image:
 - ``` Desired Income = NaN```
 - ``` Desired Region = Asia```
 - ``` Planned Countries = Thailand, Malaysia, Kazakhstan, Japan```
-- ``` Favorite Features = mostly agree with Rob....Boob guy all day and horrible teeth are a no-go, skinny too``` 
+- ``` Favorite Features = mostly agree with Rob....Boob guy all day and horrible teeth are a no-go, needs to be skinny too``` 
