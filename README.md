@@ -4,6 +4,13 @@ _A description of my project that blends travel, automation, and whimsy._
 
 ---
 
+## Table of Contents
+1. [🖼️ Images](#-images)
+   - [Kazakhstan](#kazakhstan)
+   - [Malaysia](#malaysia)
+2. [🌏 Travel Parameters](#-travel-parameters)
+3. [Simple Link](#simple-link)
+
 ## 🖼️ Images:
 
 ### Kazakhstan:
