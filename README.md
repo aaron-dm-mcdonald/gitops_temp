@@ -4,9 +4,9 @@ _A description of my project that blends travel, automation, and whimsy._
 
 ---
 
-## 🖼️ Example Image  
+## 🖼️ Images:
 
-### Kazahk:
+### Kazakhstan:
 
 <p align="center">
   <img src="images/kazakh.jpg" alt="kazakh" width="200"/>
@@ -17,10 +17,13 @@ _A description of my project that blends travel, automation, and whimsy._
 
 ---
 
-### External Image:  
-![Malay](https://as1.ftcdn.net/v2/jpg/01/83/57/50/1000_F_183575057_Ds4e51TuR08IasMWY9cgJOhJkT0quSzx.jpg)
-![Malay](images/malay-1.jpg)
-![Malay](images/malay-2.jpg)
+### Malaysia:  
+
+<p align="center">
+  <img src="https://as1.ftcdn.net/v2/jpg/01/83/57/50/1000_F_183575057_Ds4e51TuR08IasMWY9cgJOhJkT0quSzx.jpg" alt="Malay" width="200"/>
+  <img src="images/malay-1.jpg" alt="Malay" width="200"/>
+  <img src="images/malay-2.jpg" alt="Malay" width="200"/>
+</p>
 
 ---
 
