@@ -7,9 +7,9 @@ _A description of my project that blends travel, automation, and whimsy._
 ## 🖼️ Example Image  
 
 ### Kazahk:
-![Kazahk](images/kazahk.jpg)
-![Kazahk](images/kazahk-1.jpg)
-![Kazahk](images/kazahk-2.jpg)
+![Kazahk](images/kazakh.jpg)
+![Kazahk](images/kazakh-1.jpg)
+![Kazahk](images/kazakh-2.jpg)
 
 ---
 
