@@ -50,32 +50,7 @@ Here is the data for heading abroad:
 
 ---
 
-## Simple Link
-
-[Setup New GH Repo Bash Script](./scripts/setup.sh)
-
-[Directory Structure Script](./scripts/tree.py)
-
-## Some other README stuff
-
-### Project Structure
-
-- ./
-    - .gitignore
-    - README.md
-    - images/
-        - kazakh-1.jpg
-        - kazakh-2.jpg
-        - kazakh.jpg
-        - malay-1.jpg
-        - malay-2.jpg
-        - malay.jpg
-        - thai.jpg
-    - scripts/
-        - setup.sh
-        - tree.py
-
-### Random Bash Commands
+### Code Formatting with Bash Commands
 
 #### 🌐 REST API Interaction with `curl`
 
@@ -127,7 +102,9 @@ curl -s -X PUT https://api.example.com/tasks/123 \
 - `| jq`: Passes the JSON response through `jq` to format and print it in a readable form.
 
 
+## Simple Links
 
+[Directory Structure Script](./scripts/tree.py)
 
 
 
