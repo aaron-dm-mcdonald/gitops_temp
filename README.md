@@ -56,8 +56,9 @@ Here is the data for heading abroad:
 
 [Directory Structure Script](./scripts/tree.py)
 
+## Some other README stuff
 
-## Project Structure
+### Project Structure
 
 - ./
     - .gitignore
@@ -73,3 +74,58 @@ Here is the data for heading abroad:
     - scripts/
         - setup.sh
         - tree.py
+
+### Random Bash Commands
+
+#### 🌐 REST API Interaction with `curl`
+
+A comprehensive guide to interacting with a REST API using `curl` and `jq`.
+
+---
+
+#### 🛠️ Setup
+Before starting, ensure you have:
+- **`curl`**: Command-line tool for making HTTP (and other) requests.
+- **`jq`**: JSON processor for formatting and parsing JSON responses.
+
+---
+
+#### 📝 REST Method Summary
+
+| Method     | Purpose              | Example Command                                 |
+|------------|----------------------|-----------------------------------------------|
+| **GET**    | Retrieve data        | `curl -X GET https://api.example.com/tasks`    |
+| **POST**   | Create new data      | `curl -X POST https://api.example.com/tasks`   |
+| **PUT**    | Update existing data | `curl -X PUT https://api.example.com/tasks/{id}` |
+| **DELETE** | Remove data          | `curl -X DELETE https://api.example.com/tasks/{id}` |
+
+#### **POST** - Create Data with JSON data and JQ
+```bash
+curl -s -X POST https://api.example.com/tasks \
+  -H "Content-Type: application/json" \
+  -d '{"title": "Buy groceries", "due_date": "2024-12-01"}' | jq
+
+- `-X POST`: Specifies the HTTP POST method to create new data.
+- `-H "Content-Type: application/json"`: Sets the request's content type to JSON.
+- `-d '{"key": "value"}'`: Sends the data in JSON format to create a new resource.
+- `| jq`: Passes the response through `jq` to format and pretty-print the JSON response.
+```
+
+
+#### **PUT** - Create Data with JSON data and JQ
+```bash
+curl -s -X PUT https://api.example.com/tasks/123 \
+  -H "Content-Type: application/json" \
+  -d '{"title": "Buy groceries and snacks", "due_date": "2024-12-02"}' | jq
+
+- `-X PUT`: Specifies the HTTP PUT method to update existing data.
+- `https://api.example.com/tasks/123`: Targets the task with ID `123` to update its information.
+- `-H "Content-Type: application/json"`: Sets the content type of the request to JSON.
+- `-d '{"key": "value"}'`: Sends the new data as JSON to update the resource.
+- `| jq`: Passes the JSON response through `jq` to format and print it in a readable form.
+```
+
+
+
+
+
