@@ -7,9 +7,13 @@ _A description of my project that blends travel, automation, and whimsy._
 ## 🖼️ Example Image  
 
 ### Kazahk:
-![Kazahk](images/kazakh.jpg)
-![Kazahk](images/kazakh-1.jpg)
-![Kazahk](images/kazakh-2.jpg)
+
+<p align="center">
+  <img src="images/kazakh.jpg" alt="kazakh" width="200"/>
+  <img src="images/kazakh-1.jpg" alt="kazakh" width="200"/>
+  <img src="images/kazakh-2.jpg" alt="kazakh" width="200"/>
+</p>
+
 
 ---
 
