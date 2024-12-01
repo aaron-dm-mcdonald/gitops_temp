@@ -35,5 +35,10 @@ Here is the data for heading abroad:
 
 ---
 
+## Example: Two Images on the Same Line
 
+<p align="center">
+  <img src="images/thai.jpg" alt="Thai" width="200"/>
+  <img src="https://as1.ftcdn.net/v2/jpg/01/83/57/50/1000_F_183575057_Ds4e51TuR08IasMWY9cgJOhJkT0quSzx.jpg" alt="Malay" width="200"/>
+</p>
 
