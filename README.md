@@ -21,6 +21,7 @@ _A description of my project that blends travel, automation, and whimsy._
 
 <p align="center">
   <img src="https://as1.ftcdn.net/v2/jpg/01/83/57/50/1000_F_183575057_Ds4e51TuR08IasMWY9cgJOhJkT0quSzx.jpg" alt="Malay" width="200"/>
+  <img src="images/malay.jpg" alt="Malay" width="200"/>
   <img src="images/malay-1.jpg" alt="Malay" width="200"/>
   <img src="images/malay-2.jpg" alt="Malay" width="200"/>
 </p>
