@@ -5,19 +5,24 @@ _A description of my project that blends travel, automation, and whimsy._
 ---
 
 ## 🖼️ Example Image  
-### Local Image:
-![Thai](images/thai.jpg)
+
+### Kazahk:
+![Kazahk](images/kazahk.jpg)
+![Kazahk](images/kazahk-1.jpg)
+![Kazahk](images/kazahk-2.jpg)
 
 ---
 
 ### External Image:  
 ![Malay](https://as1.ftcdn.net/v2/jpg/01/83/57/50/1000_F_183575057_Ds4e51TuR08IasMWY9cgJOhJkT0quSzx.jpg)
+![Malay](images/malay-1.jpg)
+![Malay](images/malay-2.jpg)
 
 ---
 
 ## 🌏 **Travel Parameters**
 
-Here are the parameters for our next big adventure:
+Here is the data for heading abroad:
 
 | Parameter          | Value                  |
 |--------------------|------------------------|
@@ -26,16 +31,9 @@ Here are the parameters for our next big adventure:
 | **Desired Income** | `NaN`                 |
 | **Desired Region** | `Asia`                |
 | **Planned Countries** | `Thailand, Malaysia, Kazakhstan, Japan`|
-| **Favorite Features** | `mostly agree with Rob....Boob guy all day and horrible teeth are a no-go,needs to be skinny too`|
+| **Favorite Features** | `Mostly agree with Rob....Boob guy all day and horrible teeth are a no-go,needs to be skinny too`|
 
 ---
 
-### 🔍 **Code Block for Reference**
-```yaml
-parameters:
-  name: "Rob's Whiter Half"
-  class: "Class 5.5"
-  desired_income: NaN
-  desired_region: "Asia"
 
 
