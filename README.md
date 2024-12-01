@@ -50,22 +50,22 @@ Here is the data for heading abroad:
 
 ---
 
-### Code Formatting with Bash Commands
+## Code Formatting with Bash Commands
 
-#### 🌐 REST API Interaction with `curl`
+### 🌐 REST API Interaction with `curl`
 
 Examples of interacting with a REST API using `curl` and parsing data with`jq`.
 
 ---
 
-#### 🛠️ Setup
+### 🛠️ Setup
 Before starting, ensure you have:
 - **`curl`**: Command-line tool for making HTTP (and other) requests.
 - **`jq`**: JSON processor for formatting and parsing JSON responses.
 
 ---
 
-#### 📝 REST Method Summary
+### 📝 REST Method Summary
 
 | Method     | Purpose              | Example Command                                 |
 |------------|----------------------|-----------------------------------------------|
