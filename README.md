@@ -52,4 +52,24 @@ Here is the data for heading abroad:
 
 ## Simple Link
 
-[Shell Script](./setup.sh)
+[Setup New GH Repo Bash Script](./scripts/setup.sh)
+
+[Directory Structure Script](./scripts/tree.py)
+
+
+## Project Structure
+
+- ./
+    - .gitignore
+    - README.md
+    - images/
+        - kazakh-1.jpg
+        - kazakh-2.jpg
+        - kazakh.jpg
+        - malay-1.jpg
+        - malay-2.jpg
+        - malay.jpg
+        - thai.jpg
+    - scripts/
+        - setup.sh
+        - tree.py
