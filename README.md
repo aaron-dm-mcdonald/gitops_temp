@@ -54,7 +54,7 @@ Here is the data for heading abroad:
 
 #### 🌐 REST API Interaction with `curl`
 
-A comprehensive guide to interacting with a REST API using `curl` and `jq`.
+Examples of interacting with a REST API using `curl` and parsing data with`jq`.
 
 ---
 
@@ -101,10 +101,25 @@ curl -s -X PUT https://api.example.com/tasks/123 \
 - `-d '{"key": "value"}'`: Sends the new data as JSON to update the resource.
 - `| jq`: Passes the JSON response through `jq` to format and print it in a readable form.
 
+---
 
-## Simple Links
+## Project Structure
+
+- ./
+    - .gitignore
+    - README.md
+    - images/
+        - kazakh-1.jpg
+        - kazakh-2.jpg
+        - kazakh.jpg
+        - malay-1.jpg
+        - malay-2.jpg
+        - malay.jpg
+        - thai.jpg
+    - scripts/
+        - setup.sh
+        - tree.py
+
+### How to make your directory tree
 
 [Directory Structure Script](./scripts/tree.py)
-
-
-
